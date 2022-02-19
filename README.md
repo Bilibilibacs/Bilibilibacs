@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bilibilibacs
-- 👀 I’m interested in music composing
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in academic music composing, investing, learning Python
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on social apps
 - 📫 How to reach me t.me/vadimderepa
 
